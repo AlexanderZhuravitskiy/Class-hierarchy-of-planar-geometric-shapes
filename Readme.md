@@ -6,7 +6,7 @@ Class-hierarchy-of-planar-geometric-shapes
 
 
 
--Плоская геометрическая фигура
+Плоская геометрическая фигура:
 
    -Эллипс
       
