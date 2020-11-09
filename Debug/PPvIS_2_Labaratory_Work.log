@@ -1,0 +1,9 @@
+﻿  Implementation.cpp
+C:\Users\User\source\repos\PPvIS_2_Labaratory_Work\Implementation.cpp(138,1): error C2084: функция "double rectangle::area(void)" уже имеет текст реализации
+C:\Users\User\source\repos\PPvIS_2_Labaratory_Work\Implementation.cpp(23): message : см. предыдущее определение "area"
+C:\Users\User\source\repos\PPvIS_2_Labaratory_Work\Implementation.cpp(143,1): error C2084: функция "double rectangle::perimeter(void)" уже имеет текст реализации
+C:\Users\User\source\repos\PPvIS_2_Labaratory_Work\Implementation.cpp(28): message : см. предыдущее определение "perimeter"
+C:\Users\User\source\repos\PPvIS_2_Labaratory_Work\Implementation.cpp(148,1): error C2084: функция "void rectangle::draw(void)" уже имеет текст реализации
+  PPvIS_2_Labaratory_Work.cpp
+  Создание кода...
+C:\Users\User\source\repos\PPvIS_2_Labaratory_Work\Implementation.cpp(33): message : см. предыдущее определение "draw"
